@@ -10,6 +10,8 @@ Everything about how Bash (Packages) Works
 .. ctrl b + d = deleting session 
 .. ctrl b + % = vertical split
 .. ctrl b + " = horizontol split
+.. ctrl b + x = kill current pane 
+.. ctrl b + o = go to next pane
 .. ctrl b + w = list of all open tmux processe
 .. ctrl b + & = kill window 
 .. ctrl b + PgUp = scrolling mode = q for quit 
