@@ -18,7 +18,7 @@ Everything about how Bash (Packages) Works
 
 2. VIM ( Virtual Improved / Editor )
 
-2.1 Basic Vim Commands 
+2.1 Basic Vim Commands
 .. i       = going into Insertmode
 .. esc :q! = Quitting withot saving
 .. esc :q  = Quitting 
@@ -62,7 +62,14 @@ Everything about how Bash (Packages) Works
 2.5 Vim commands for working with multiple files
 .. :sp [filename] = Opens a new file and splits your screen horizontally
 
-3.0 ~/home
+3.0 Github 
+ 
+3.1 Adding files to a repository
+.. git init = Initialize the local directory as a Git repository
+
+.. git add (.) = Add the file(s) to your local repository and stages it for commit
+.. git commit -m "Add existing file" = Commits the tracked changes and prepares them to be pushed
+.. git push origin master = Pushes the changes in your local repository up to the remote repository 
 
 3.1 .bashrc
 export PS1="\e[0;36m\u@\e[m\W\$ " ( George Hotz )
