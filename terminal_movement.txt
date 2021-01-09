@@ -68,6 +68,11 @@
 	* git commit -m "Add existing file" = Commits the tracked changes and prepares them to be pushed
 	* git push (origin master) = Pushes the changes in your local repository up to the remote repository 
 
+3.2 Basic knowledge 
+	* git clone = clone an existing repository from elsewhere
+	* git pull = fetch from and integrate with another repository or a local branch 
+
+
 4. ssh 
 	* sudo service ssh status = shows status of ssh
 	* sudo service ssh start = start ssh server
