@@ -72,6 +72,11 @@
 	* git clone = clone an existing repository from elsewhere
 	* git pull = fetch from and integrate with another repository or a local branch 
 
+3.3 !Error - Please, commit your changes or stash them before you can mer merge
+	* rm file = delets the file 
+	* git reset --hard = resets the file of the index of the working directory 
+	* git pull = fetch from and integrate with another repository or a local branch
+
 
 4. ssh 
 	* sudo service ssh status = shows status of ssh
