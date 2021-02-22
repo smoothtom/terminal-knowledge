@@ -1,6 +1,7 @@
 ## 1. Tmux ( Terminal Multiplexer )
 
 **Basic Tmux commands**
+
 	* ctrl + shift + c = copy
 	* ctrl + shift + v = paste 
 	* ctrl b + c = new tab
@@ -83,6 +84,7 @@
 ## 4. ssh 
 
 **Basic ssh commamnds**
+
 	* sudo service ssh status = shows status of ssh
 	* sudo service ssh start = start ssh server
 	* sudo service ssh stop = stop ssh server
