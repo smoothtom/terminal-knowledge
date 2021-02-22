@@ -13,9 +13,8 @@
 	* ctrl b + & = kill window 
 	* ctrl b + PgUp = scrolling mode = q for quit 
 
-2. VIM ( Virtual Improved / Editor )
-
-2.1 Basic Vim Commands
+VIM ( Virtual Improved / Editor )
+2. Basic Vim Commands
 	* i       = going into Insertmode
 	* esc :q! = Quitting withot saving
 	* esc :q  = Quitting 
@@ -60,9 +59,8 @@
 2.5 Vim commands for working with multiple files
 	* :sp [filename] = Opens a new file and splits your screen horizontally
 
-3. Github 
- 
-3.1 Adding files to a repository
+Github  
+3. Adding files to a repository
 	* git init = Initialize the local directory as a Git repository
 	* git add (.) = Add the file(s) to your local repository and stages it for commit
 	* git commit -m "Add existing file" = Commits the tracked changes and prepares them to be pushed
