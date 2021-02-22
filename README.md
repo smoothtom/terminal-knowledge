@@ -1,7 +1,7 @@
 ## 1. Tmux ( Terminal Multiplexer )
 
 **Basic Tmux commands**
-
+```
 	* ctrl + shift + c = copy
 	* ctrl + shift + v = paste 
 	* ctrl b + c = new tab
@@ -15,9 +15,10 @@
 	* ctrl b + w = list of all open tmux processe
 	* ctrl b + & = kill window 
 	* ctrl b + PgUp = scrolling mode = q for quit 
+```
 
 ## 2. VIM ( Virtual Improved / Editor )
-
+```
 **Basic Vim Commands**
   * i       = going into Insertmode
   * esc :q! = Quitting withot saving
@@ -62,9 +63,10 @@
 
 **Vim commands for working with multiple files**
   * :sp [filename] = Opens a new file and splits your screen horizontally
+```
 
 ## 3. Github  
-
+```
 **Adding files to a repository**
   * git init = Initialize the local directory as a Git repository
   * git add (.) = Add the file(s) to your local repository and stages it for commit
@@ -79,10 +81,10 @@
   * rm file = delets the file 
   * git reset --hard = resets the file of the index of the working directory 
   * git pull = fetch from and integrate with another repository or a local branch
-
+```
 
 ## 4. ssh 
-
+```
 **Basic ssh commamnds**
 
 	* sudo service ssh status = shows status of ssh
@@ -91,4 +93,4 @@
 	* sudo /sbin/shutdown = shutdown pc-server 
 	* scp "filename" user@host: = Copy the file to the host in home directory
 	* rsync --remove-source-files "filename" user@host: = move the file to the host home directory and delet it on the local machine
-
+```
