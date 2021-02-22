@@ -60,17 +60,18 @@
   * :sp [filename] = Opens a new file and splits your screen horizontally
 
 3. Github  
-Adding files to a repository
+
+**Adding files to a repository**
   * git init = Initialize the local directory as a Git repository
   * git add (.) = Add the file(s) to your local repository and stages it for commit
   * git commit -m "Add existing file" = Commits the tracked changes and prepares them to be pushed
   * git push (origin master) = Pushes the changes in your local repository up to the remote repository 
 
-Basic knowledge 
+**Basic knowledge**
   * git clone = clone an existing repository from elsewhere
   * git pull = fetch from and integrate with another repository or a local branch 
 
-!Error - Please, commit your changes or stash them before you can mer merge
+**!Error - Please, commit your changes or stash them before you can mer merge**
   * rm file = delets the file 
   * git reset --hard = resets the file of the index of the working directory 
   * git pull = fetch from and integrate with another repository or a local branch
