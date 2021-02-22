@@ -19,8 +19,9 @@
 
 ## 2. VIM ( Virtual Improved / Editor )
 
-```
+
 **Basic Vim Commands**
+```
   * i       = going into Insertmode
   * esc :q! = Quitting withot saving
   * esc :q  = Quitting 
