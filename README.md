@@ -1,4 +1,5 @@
-1. Tmux ( Terminal Multiplexer / switch between tabs  )
+## 1. Tmux ( Terminal Multiplexer / switch between tabs  )
+
 	* ctrl + shift + c = copy
 	* ctrl + shift + v = paste 
 	* ctrl b + c = new tab
@@ -13,7 +14,8 @@
 	* ctrl b + & = kill window 
 	* ctrl b + PgUp = scrolling mode = q for quit 
 
-2. VIM ( Virtual Improved / Editor )
+## 2. VIM ( Virtual Improved / Editor )
+
 **Basic Vim Commands**
   * i       = going into Insertmode
   * esc :q! = Quitting withot saving
@@ -59,7 +61,7 @@
 **Vim commands for working with multiple files**
   * :sp [filename] = Opens a new file and splits your screen horizontally
 
-3. Github  
+## 3. Github  
 
 **Adding files to a repository**
   * git init = Initialize the local directory as a Git repository
@@ -77,7 +79,7 @@
   * git pull = fetch from and integrate with another repository or a local branch
 
 
-4. ssh 
+## 4. ssh 
 	* sudo service ssh status = shows status of ssh
 	* sudo service ssh start = start ssh server
 	* sudo service ssh stop = stop ssh server
