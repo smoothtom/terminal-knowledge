@@ -16,7 +16,7 @@
 
 ## 2. VIM ( Virtual Improved / Editor )
 
-**Basic Vim Commands**
+- Basic Vim Commands
   * i       = going into Insertmode
   * esc :q! = Quitting withot saving
   * esc :q  = Quitting 
@@ -24,7 +24,7 @@
   * esc :wq = Saving and Quitting
   * esc :e  = Open files in vim 
 
-**Vim Commands for movement**
+- Vim Commands for movement
   * esc h = moves left 
   * esc l = moves right 
   * esc j = moves down 
@@ -38,7 +38,7 @@
   * esc $ = Cursor at the end of a line 
   * esc G = Cursor at the end of the file 
 
-**Vim Commands for Editing**
+- Vim Commands for Editing
   * ESC     = Insertmode left
   * esc yy  = copies a line
   * esc yw  = copies a word 
@@ -53,27 +53,27 @@
   * esc 4gg = Jump to the line number
   * cat file | pbcopy = copy all the lines in the file 
 
-**Vim commands for searching**
+- Vim commands for searching
   * /[keyword] = Searches for the word in the document
   * n          = Searches your word in next word  
   * :%s/[keyword]/[replacement] = This will replace the keyword
 
-**Vim commands for working with multiple files**
+- Vim commands for working with multiple files
   * :sp [filename] = Opens a new file and splits your screen horizontally
 
 ## 3. Github  
 
-**Adding files to a repository**
+- Adding files to a repository
   * git init = Initialize the local directory as a Git repository
   * git add (.) = Add the file(s) to your local repository and stages it for commit
   * git commit -m "Add existing file" = Commits the tracked changes and prepares them to be pushed
   * git push (origin master) = Pushes the changes in your local repository up to the remote repository 
 
-**Basic knowledge**
+- Basic knowledge
   * git clone = clone an existing repository from elsewhere
   * git pull = fetch from and integrate with another repository or a local branch 
 
-**!Error - Please, commit your changes or stash them before you can mer merge**
+- !Error - Please, commit your changes or stash them before you can mer merge
   * rm file = delets the file 
   * git reset --hard = resets the file of the index of the working directory 
   * git pull = fetch from and integrate with another repository or a local branch
