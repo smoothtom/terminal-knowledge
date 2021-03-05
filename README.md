@@ -108,5 +108,6 @@
 	* sudo service ssh stop = stop ssh server
 	* sudo /sbin/shutdown = shutdown pc-server 
 	* scp "filename" user@host: = Copy the file to the host in home directory
-	* rsync --remove-source-files "filename" user@host: = move the file to the host home directory and delet it on the local machine
+	* rsync --remove-source-files "filename" user@host: = move the file to the host home directory 
+    and delet it on the local machine
 ```
